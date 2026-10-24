@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.threadexample3
+package id.ac.polbeng.eko.threadexample3
 
 import org.junit.Test
 

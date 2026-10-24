@@ -1,5 +1,6 @@
-package id.ac.polbeng.asmira.threadexample3
+package id.ac.polbeng.eko.threadexample3
 
+import android.util.Log
 
 class ExampleRunnable(private var seconds: Int) : Runnable {
 
